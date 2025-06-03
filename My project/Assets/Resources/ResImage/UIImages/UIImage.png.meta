@@ -1,0 +1,1385 @@
+fileFormatVersion: 2
+guid: e701cd22d652acf4293828eb40deb848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: FullScreenbtn
+  - first:
+      213: 21300002
+    second: Randombtn
+  - first:
+      213: 21300004
+    second: Returnbtn
+  - first:
+      213: 21300006
+    second: StartGamebtn
+  - first:
+      213: 21300008
+    second: beijing06_e
+  - first:
+      213: 21300010
+    second: beijing07_b
+  - first:
+      213: 21300012
+    second: beijing07_c
+  - first:
+      213: 21300014
+    second: beijing07_d
+  - first:
+      213: 21300016
+    second: beijing07_e
+  - first:
+      213: 21300018
+    second: beijing07_f
+  - first:
+      213: 21300020
+    second: beijing07_i
+  - first:
+      213: 21300022
+    second: beijing09_a
+  - first:
+      213: 21300024
+    second: beijing09_b
+  - first:
+      213: 21300026
+    second: beijing09_c
+  - first:
+      213: 21300028
+    second: beijing09_d
+  - first:
+      213: 21300030
+    second: beijing09_e
+  - first:
+      213: 21300032
+    second: beijing09_f
+  - first:
+      213: 21300034
+    second: beijing09_g
+  - first:
+      213: 21300036
+    second: beijing10_b
+  - first:
+      213: 21300038
+    second: beijing11_a
+  - first:
+      213: 21300040
+    second: beijing11_b
+  - first:
+      213: 21300042
+    second: beijing11_d
+  - first:
+      213: 21300044
+    second: beijing11_e
+  - first:
+      213: 21300046
+    second: beijing12_a
+  - first:
+      213: 21300048
+    second: beijing12_b
+  - first:
+      213: 21300050
+    second: beijing12_c
+  - first:
+      213: 21300052
+    second: beijing12_d
+  - first:
+      213: 21300054
+    second: beijing12_e
+  - first:
+      213: 21300056
+    second: beijing12_f
+  - first:
+      213: 21300058
+    second: beijing12_g
+  - first:
+      213: 21300060
+    second: beijing12_h
+  - first:
+      213: 21300062
+    second: beijing12_i
+  - first:
+      213: 21300064
+    second: beijing12_j
+  - first:
+      213: 21300066
+    second: beijing12_k
+  - first:
+      213: 21300068
+    second: progressBar_b
+  - first:
+      213: 21300070
+    second: progressBar_a
+  - first:
+      213: 21300072
+    second: beijing12_m
+  - first:
+      213: 21300074
+    second: beijing12_n
+  - first:
+      213: 21300076
+    second: beijing12_o
+  - first:
+      213: 21300078
+    second: beijing12_p
+  - first:
+      213: 21300080
+    second: Close
+  - first:
+      213: 21300082
+    second: LoadingHead
+  - first:
+      213: 21300084
+    second: UI_quan0929_a
+  - first:
+      213: 21300086
+    second: UI_quan0929_b
+  - first:
+      213: 21300088
+    second: Tipsbg
+  - first:
+      213: 21300090
+    second: Recordbg
+  - first:
+      213: 21300092
+    second: beijing06_c
+  - first:
+      213: 21300094
+    second: beijing06_d
+  - first:
+      213: 21300096
+    second: beijing06_b
+  - first:
+      213: 21300098
+    second: beijing12_l
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: progressBar_b
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2012
+        width: 354
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1126f189d952243b31660460dc897b
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progressBar_a
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2012
+        width: 502
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f498e6fcd92e85c4f9f3d1b86df21482
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_b
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1988
+        width: 154
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcc15d18b77b2d42bba21f676ec33f2
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing11_e
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1988
+        width: 154
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19285337c3e79b4abeef3243c036d70
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_m
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1988
+        width: 154
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1870d02075db3429756df91f92e533
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_n
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1988
+        width: 154
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5766b171779cb8e41b89f6e6b39a1de2
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_o
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1988
+        width: 154
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e49ef192ae92945bbc7328dddb7cdf
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_p
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1988
+        width: 154
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f79d048734b5744ad3bb22203a317b
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing11_d
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1988
+        width: 154
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f48b3ebc53c3147ab0d90b1ff6c79f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1982
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2042b2c6413eda542b6a4c960e99ff06
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullScreenbtn
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1916
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ba830faf6feeb42aa471209860320f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Returnbtn
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1916
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c94c8f5492b24c4ea3e0039a0312be1
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing11_a
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1913
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f0b2d8166e49a41b92f6de63efdfcc
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingHead
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1902
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115034d034820044cbba9d43ff1370a7
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_g
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1888
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bb95098b095ca4290a76726d4deda4
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_f
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1888
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7e0c9225d6b144a9793711261a7c01
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_d
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1888
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c571d910c887c1f46bc324ad55cf077b
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_c
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1888
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b16cf5ce153a3488f3581b2c8fc0d4
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_h
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1888
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5249baa063ea8e945ac8b963cac93a82
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_e
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1888
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9b913d69ce88e4c9d83e523db860f5
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_i
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1888
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f616d9d4da922794890df80c8ed86062
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_k
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1888
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab52c1bb214ff684bbf0a2ef63727a96
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_j
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1888
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d3bdba0dece5e47964ec6cee00f010
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartGamebtn
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1869
+        width: 243
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb022e19c0c9a624da4be871cf64db34
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Randombtn
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1869
+        width: 243
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2c282f3fd6efe47a2bf6c61cd25262
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing11_b
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1868
+        width: 325
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b71933bf6b75241a99a0c1bf8daf13
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing06_e
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1746
+        width: 737
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b0852eb5c29a343b4853ec14a88f94
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing10_b
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1746
+        width: 737
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddef9a1337fb028479fef037372f9f7b
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing09_g
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1624
+        width: 737
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf04fc5c87c2e204a84c2afd2718987f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_quan0929_a
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5436dc64578a07444ab9ca44336a35ee
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_quan0929_b
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d819e1b4a899b99418f8dc617191c6d8
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing07_i
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1508
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e1f2fc94aa5d347a569b940af337af
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing07_f
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1508
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28d93b3d5500440a447476329b8946
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing07_d
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1508
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bec5a2e8f1199540aab084cf5577c63
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing07_c
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1508
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a36c7da0c9131e40ade7e0d616812be
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing07_b
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1270
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5de27490b5b5b3459ad5c48c98cf3c9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing09_a
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1270
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39066963422008746b9f5248139e9159
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing07_e
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1270
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058bc700c6ccfa04db42e67bd9346ca3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing09_f
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1270
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5599dc9c6863ee42a50a32601cdff52
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing09_e
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1270
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba419d8bcd2864da36dee94de2149b
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing09_b
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1270
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0c9f573fef8104ea5d0998b0c6665f
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing09_d
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1270
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e353e1b2df074eb8f5a6d32608e91
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing09_c
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1270
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6ee29caff30d444a7114f99d851a78
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tipsbg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1017
+        width: 388
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2bb8a597f44134a865979cfe2020fe
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recordbg
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 995
+        width: 433
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a640aa913c755a04ab8c3f4372578881
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_a
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 955
+        width: 776
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ae84f0e24966d448f0708471c627c4
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing06_c
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 876
+        width: 392
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f84af652e0cf8140bf7d3378bb7c567
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing06_d
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 392
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c0d7b8c584543428cc1e6a0277e003
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing06_b
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 482
+        width: 392
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d39be0ee4eefbc44aed3dcb64ffb223
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beijing12_l
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 364
+        width: 530
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad50890278a37743824efa086eb2a7b
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 359d8718fd9341144b250315573c8a83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Close: 21300080
+      FullScreenbtn: 21300000
+      LoadingHead: 21300082
+      Randombtn: 21300002
+      Recordbg: 21300090
+      Returnbtn: 21300004
+      StartGamebtn: 21300006
+      Tipsbg: 21300088
+      UI_quan0929_a: 21300084
+      UI_quan0929_b: 21300086
+      beijing06_b: 21300096
+      beijing06_c: 21300092
+      beijing06_d: 21300094
+      beijing06_e: 21300008
+      beijing07_b: 21300010
+      beijing07_c: 21300012
+      beijing07_d: 21300014
+      beijing07_e: 21300016
+      beijing07_f: 21300018
+      beijing07_i: 21300020
+      beijing09_a: 21300022
+      beijing09_b: 21300024
+      beijing09_c: 21300026
+      beijing09_d: 21300028
+      beijing09_e: 21300030
+      beijing09_f: 21300032
+      beijing09_g: 21300034
+      beijing10_b: 21300036
+      beijing11_a: 21300038
+      beijing11_b: 21300040
+      beijing11_d: 21300042
+      beijing11_e: 21300044
+      beijing12_a: 21300046
+      beijing12_b: 21300048
+      beijing12_c: 21300050
+      beijing12_d: 21300052
+      beijing12_e: 21300054
+      beijing12_f: 21300056
+      beijing12_g: 21300058
+      beijing12_h: 21300060
+      beijing12_i: 21300062
+      beijing12_j: 21300064
+      beijing12_k: 21300066
+      beijing12_l: 21300098
+      beijing12_m: 21300072
+      beijing12_n: 21300074
+      beijing12_o: 21300076
+      beijing12_p: 21300078
+      progressBar_a: 21300070
+      progressBar_b: 21300068
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
